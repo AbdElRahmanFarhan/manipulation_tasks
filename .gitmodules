@@ -1,0 +1,6 @@
+[submodule "box_pose_estimation"]
+	path = box_pose_estimation
+	url = https://github.com/AbdElRahmanFarhan/box_pose_estimation.git
+[submodule "ik_solver"]
+	path = ik_solver
+	url = https://github.com/AbdElRahmanFarhan/ik_solver.git
